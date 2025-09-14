@@ -29,11 +29,11 @@
 
 ## 📫 Conecte-se comigo
 
-<a href="https://www.linkedin.com/in/markevisky/">
+<a href="https://www.linkedin.com/in/markevisky/" target="_blank">
     <img src="LinkedIn-Emblema.png" alt="linkedin" width="23" height="23" >
     Linkedin
 </a><br>
-<a href="https://www.instagram.com/mvr.ribeiro/">
+<a href="https://www.instagram.com/mvr.ribeiro/" target="_blank">
     <img src="instagram.png" alt="insta" width="25" height="25">
     Instagram
 </a><br>
