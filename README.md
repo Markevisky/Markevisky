@@ -22,6 +22,7 @@
 
 ## 📂 Repositórios em destaque
 
+- [Projeto back end reserva de quarto em um Hotel](https://github.com/Markevisky/Hotel_Copacabana) — Projeto ADS
 - [Adicionando dados de corrida em um database](https://github.com/Markevisky/database.Formula1.dio.me) — Projeto bootcamp GFT Start #7  
 - [Sudoku](https://github.com/Markevisky/Sudoku.dio.me) — Vamos treinar o cérebro.  
 
